@@ -52,7 +52,6 @@ import "fmt"
 		 keyIndex++
                 keyIndex %= len(Keyword)
                 }
-          //      fmt.Println(decipher)
         }
 		  fmt.Println(decipher)
     }
